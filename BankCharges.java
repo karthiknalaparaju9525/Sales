@@ -14,7 +14,7 @@ public class BankCharges {
     
     
      int UserInput;
-    Double Servicefee;
+
      
  public static void main(String[ ] args ){
       Scanner scanner = new Scanner(System.in);
